@@ -1,0 +1,47 @@
+
+# ver las primeras lineas del archivo
+readLines("sequences.txt", n = 20) # se puede agregar y luego convertirlo a frequencies y ver cuales son sus items
+
+library(arulesSequences)
+
+# cargar el archivo
+trans <- read_baskets("sequences.txt", 
+                      sep = " ",
+                      info = c("sequenceID", "eventID", "size"))
+
+# estructura del objeto
+class(trans)
+summary(trans)
+
+# cuantas transacciones e items
+cat("Transacciones:", length(trans), "\n")
+cat("Items unicos:", length(itemLabels(trans)), "\n")
+
+# items mas frecuentes
+frecuencias <- itemFrequency(trans, type = "absolute")
+frecuencias_ord <- sort(frecuencias, decreasing = TRUE)
+
+# top 20
+print(head(frecuencias_ord, 20))
+
+# grafico
+itemFrequencyPlot(trans, topN = 20, type = "absolute",
+                  main = "Top 20 ítems más frecuentes")
+
+# secuencias frecuentes con soporte 0.2% = 0.002
+seq_freq <- cspade(trans,
+                   parameter = list(support = 0.002),
+                   control   = list(verbose = TRUE))
+
+cat("Secuencias frecuentes:", length(seq_freq), "\n")
+
+# reglas
+reglas <- ruleInduction(seq_freq, confidence = 0.50)
+cat("Reglas generadas:", length(reglas), "\n")
+
+# ordenar por lift y ver las 20 mejores
+q <- quality(reglas)
+rownames(q) <- NULL
+top_idx <- order(q$lift, decreasing = TRUE)[1:min(20, nrow(q))]
+inspect(reglas[top_idx])
+

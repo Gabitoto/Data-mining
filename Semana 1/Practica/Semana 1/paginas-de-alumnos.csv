@@ -1,0 +1,577 @@
+Graduation Year;Student;Dissertation;Advisor;Committee Members
+2026;Annette Jing;Topics in Multivariate Time Series Evaluation and Forecasting;Hong (Econ);Lai, Romano, Fox, Taylor
+2026;Rex Shen;Statistical Advances in Synthetic Data Generation and Longitudinal Analysis;Tian;Taylor, Efron
+2026;Asher Spector;Topics in assumption-lean statistical inference;Candes;Hastie, Lei (GSB)
+2025;Zhaomeng Chen;Topics in Selective and Causal Inference;Candes;Hastie, Sabatti
+2025;Chen Cheng;Towards Modern Datasets: Laying Mathematical Foundations to Streamline Machine Learning;Duchi/Montanari;Candes
+2025;John Cherian;Conditional Guarantees in Model-Free Inference;Candes;Duchi, Hastie
+2025;Apratim Dey;Mathematical Statistics in 2025;David Donoho;Johnstone, Montanari
+2025;Paula Gablenz;Detecting and Measuring Important Variables:  Novel Methods with Statistical Guarantees;Sabatti;Candes, Hastie, Palacios
+2025;Disha Ghandwani;Scalable Statistical Models for Personalized Recommendation: Incorporating Random Slopes and Latent Structure;Hastie;Taylor, Owen
+2025;Yujin Jeong;Topics in Causal Inference and Distribution Shifts;Fox;Rothenhaeusler, Johari (MS&E)
+2025;Harrison Li;Precise Randomized Experiments Through Design and Estimation;Owen;Rothenhaeusler, Wager
+2025;Tim Morrison;Experimental Design Methods for Treatment Effect Estimation Under Constraints;Owen;Rothenhaeusler, Baiocchi
+2025;Anav Sood;New Perspectives on Dimensionality Reduction and Selective Inference;Hastie;Taylor, Owen
+2025;Jae Hyun (James) Yang;Fast and Scalable Solvers for Penalized Regression with Sparsity;Hastie;Taylor, Rothenhaeusler
+2025;Julie Zhang;Coalescent Structures and Their Generalizations;Palacios;Rosenberg (Bio), Sabatti, Walther
+2024;Fang Cai;Connecting Frequentist and Bayesian Inference;Efron;Tibshirani, Wong
+2024;Kevin Binh Fry;Applications of Data Fission: Spatial Estimation and Model-free Selective Inference;Taylor;Switzer, Tibshirani
+2024;Isaac Gibbs;Expanded Coverage Guarantees for Conformal Inference;Candes;Duchi, Schramm
+2024;Jayoon Jang;Topics on Finite-sample Valid Inference and the Finite Population Bootstrap;Candes/Walther;Taylor
+2024;Ying Jin;Modern Statistical Methodology for Generalizable and Trustworthy Inference;Candes/Rothenhaeusler;Owen
+2024;Samir Khan;Methods for Causal Inference with Limited or No Overlap;Ugander (MSE);Owen, Rothenhaeusler
+2024;Dan Kluger;Topics in Data Fusion with Applications to Agriculture;Owen/Lobell (Earth System Science);Switzer
+2024;Sifan Liu;Advances in Quasi-Monte Carlo;Owen;Palacios, Taylor
+2024;Zexin Pan;Super-polynomial Accuracy of Randomized Nets Using the Median-of-means;Owen;Chatterjee, Schramm
+2024;Yu Wang;Eigenvalue-based Regressors in High Dimensions;Donoho;Johnstone, Owen
+2024;Kangjie Zhou;Computational and Informational Limits in High-dimensional Statistical Problems;Montanari;Candes, Dembo
+2023;Michael Feldman;Principal Component Analysis Under Extreme Aspect Ratios;Donoho;Johnstone, Montanari
+2023;Kevin Xinkai Guo;Three Essays in Causal Inference;Rothenhaeusler;Owen, Romano
+2023;Kevin Han;Estimation and Testing Methods for Causal Inference with Interference;Imbens (Econ) / Ugander (MSE);Owen
+2023;Theodor Jakub Misiakiewicz;Learning with Neural Networks in High Dimensions;Montanari;Donoho, Johnstone
+2023;Samyak Rajanala;On Some Topics in Statistical Learning: Cluster-Aware Lasso & Others;Tibshirani;Hastie, Palacios
+2023;Souvik Ray;Stability of Solutions of Random Optimization Problems Under Small Perturbations;Chatterjee;Dembo, Diaconis
+2023;Benjamin Seiler;Applications of Cooperative Game Theory to Interpretable Machine Learning;Owen;Palacios, Taylor
+2023;Marius Aurel Tirlea;Permutation-Based Inference in Time Series Analysis;Romano;Duchi, Owen
+2023;Han Wu;Causal Inference with Non-standard Experimental Designs;Wager (GSB);Hastie, Siegmund
+2023;Yuchen Wu;Information-Theoretic and Computational Perspectives;Montanari;Johnstone, Schramm
+2023;Hui Xu;Inference for Prediction Error Beyond the IID Assumption;Tibshirani;Hastie, Owen
+2023;Zhen Zhu;Change-point Detection in Mean or Variance or Both;Siegmund;Lai, Linderman
+2022;Sohom Bhattacharya;Some applications of graph limits in probability and statistics;Chatterjee;Montanari, Dembo
+2022;Sky Cao;Some probabilistic aspects of Yang-Mills;Chatterjee;Diaconis, Dembo
+2022;Maxime Cauchois;Confident and reliable statistical predictions in changing environments;Duchi;Candes, Liang (CS)
+2022;Zijun Gao;Applications of Machine Learning to Some Statistical Inference Problems;Hastie;Tibshirani, Wager
+2022;Swarnadip Ghosh;Scalable Inference for Crossed Random Effects Models;Owen/Hastie;Hastie, Linderman, Athey (GSB)
+2022;Suyash Gupta;Reliability and stability in statistical and machine learning problems;Duchi;Candes, Donoho, Rothenhaeusler
+2022;Nikolaos Ignatiadis;Nonparametric perspectives on empirical Bayes;Wager (GSB);Candes, Tibshirani
+2022;Ismael Lemhadri;A Neural Network with Feature Sparsity;Tibshirani;Duchi, Hastie
+2022;Shuangning Li;Causal and Selective Inference in Complex Statistical Models;Candes/Wager (GSB);Hastie
+2022;Damian Pavlyshyn;Likelihood ratio testing in critically-spiked Wigner models;Johnstone;Owen, Dembo
+2022;Jaime Roquero Gimenez;Topics in multiple hypothesis testing and robustification of estimators through causal inference methods;Zou (BDS);Candes, Owen
+2022;Youngtak Sohn;Phase Transitions of Disordered Systems and High Dimensional Inference;Dembo;Chatterjee, Montanari
+2022;Elena Tuzhilina;Advances in multivariate statistics and its applications;Hastie;Tibshirani, Segal (UCSF)
+2022;Qian Zhao;Applied Statistical Methods for High-Dimensional Generalized Linear Models;Candes;Montanari, Taylor
+2022;Chenyang Zhong;Mallows permutation model: Sampling algorithms and probabilistic properties;Diaconis;Dembo, Siegmund
+2021;Michael Celentano;Topics in Exact Asymptotics for High-dimensional Regression;Montanari;Candes, Donoho
+2021;Nima Hamidi;Minimax Regret Bounds for Stochastic Linear Bandit Algorithms;Bayati (GSB);Lai, Candes
+2021;Zhimei Ren;Model-Free Methods for Multiple Testing and Predictive Inference;Candes;Tibshirani, Owen
+2021;Michael Benjamin Sklar;Advances in Contextual Multi-armed Bandits, Dynamic Treatment Strategies, and Type 1 Error Rate Guarantees in Confirmatory Adaptive Multi-arm Clinical Trials;Lai;Lavori (BDS), Lu (BDS), Palacios
+2021;Jingyi Kenneth Tay;Extending the Reach of the Lasso and Elastic Net Penalties: Methodology and Practice;Tibshirani;Art Owen, Guenther Walther
+2020;Mona Azadkia;A Nonparametric Measure of Conditional Dependence;Chatterjee;Taylor, Bayati (GSB)
+2020;Stephen Bates;Causal Inference in Genetic Trio Studies;Candes;Tibshirani, Wager
+2020;Claire Donnat;Statistics and Uncertainty Quantification in Graphs and Networks with Biomedical Applications;Holmes;Friedman, Leskovec (CS)
+2020;Rina Friedberg;Topics in Machine Learning for Causal Inference with Applications in Social Science;Athey (Econ);Owen, Hastie
+2020;Jelena Markovic;Statistical methods for adaptive data analysis;Taylor;Tibshirani, Romano
+2020;Evan Patterson;The Algebra and Machine Representation of Statistical Models;Candes;Hastie, Chambers, Musen (Med/BDS)
+2020;Junyang Qian;Large-scale and High-dimensional Statistical Learning: Methods and Algorithms;Hastie;Tibshirani, Rivas (BDS)
+2020;Evan Rosenman;Making Causal Conclusions from Heterogeneous Data Sources;Owen/Baiocchi;Palacios
+2020;Matteo Sesia;New Methods for Variable Importance Testing with Applications to Genetic Studies;Candes;Sabatti, Tibshirani
+2020;Andy Tsao;Sampling Methods for Perfect Bipartite Matchings;Diaconis;Chatterjee, Charikar (CS)
+2020;Jun Yan;Asymptotic Theory for Large Random Matrices and its Applications;Dembo;Chatterjee, Montanari
+2019;Rakesh Achanta;Boosting Like Path Algorithms for L1 Regularized Infinite Dimensional Convex Neural Networks;Hastie;Taylor, Tibshirani
+2019;Yu Bai;When do gradient methods work well in non-convex learning problems?;Duchi;Montanari, Candes
+2019;Nan Bi;Topics in Selective Inference and its Application to Instrumental Variables;Taylor;Tibshirani, Lai
+2019;Alex Chin;Modern Statistical Approaches for Randomized Experiments Under Interference;Ugander (MSE);Walther, Palacios
+2019;Wenfei Du;Some hierarchical and group regularization methods and applications;Tibshirani;Taylor, Imbens (GSB)
+2019;Leying Guan;Classification and testing under robust model assumptions;Tibshirani/Wong;Efron
+2019;Eugene Katsevich;Multiple Testing with Structure and Exploration;Sabatti;Candes, Montanari
+2019;Keli Liu;A Computationally Conscious Search for Interactions;Tibshirani;Owen, Wager (GSB)
+2019;Jing Miao;Health and loan default risk analytics: Prediction models and their evaluation;Lai;Walther, Lu (BDS)
+2019;Paulo Orenstein;Topics in Robust Mean Estimation;Diaconis;Chatterjee, Wong
+2019;Feng Ruan;Adapting local minimax theory to modern applications;Duchi;Johnstone, Candes
+2019;Pragya Sur;A Modern Maximum Likelihood Theory for High-Dimensional Logistic Regression;Candes;Montanari, Johnstone
+2019;David Walsh;How to design and analyze online A/B tests within decentralized organizations;Johari (MS&E);Efron, Owen
+2019;Jeha Yang;Edgeworth approximations for spiked PCA models and applications;Johnstone;Owen, Donoho
+2018;Joseph Arthur;Detection and validation of genomic structural variation from DNA sequencing data;Wong;Owen, Tang
+2018;Cyrus DiCiccio;Hypothesis Testing Using Multiple Data Splitting;Romano;Taylor, Tibshirani
+2018;Zhou Fan;Eigenvalues in multivariate random effects models;Montanari/Johnstone;Candes
+2018;Kelvin Guu;Learning to generate text, programs (and beyond) from weak supervision;Liang (CS);Wong, Mackey, Manning (CS)
+2018;Ya Le;Topics in statistical learning with a focus on large-scale data;Hastie;Efron, Taylor
+2018;Snigdha Panigrahi;An approximation-based framework for post-selective inference;Taylor;Tibshirani, Sabatti
+2018;Kris Sankaran;Discovery and Visualization of Latent Structure with Applications to the Microbiome;Holmes;Switzer, Efron
+2017;Edgar Dobriban;Topics in High-Dimensional Asymptotics;Donoho;Owen, Johnstone
+2017;Murat A. Erdogdu;Stein's Lemma and Subsampling in Large-Scale Optimization;Montanari/Bayati;Candes
+2017;Julia Fukuyama;Multivariate Methods for the Analysis of Structured Data;Holmes;Wong, Relman (Med)
+2017;Katelyn Xiang Gao;Scalable Estimation and Inference for Massive Linear Mixed Models with Crossed Random Effects;Owen;Tibshirani, Mackey
+2017;Jack Gorham;Measuring Sample Quality with Stein's Method;Mackey/Candes;Owen
+2017;Ruojun Huang;Monotone interactions of random walks and graphs;Dembo;Chatterjee, Diaconis
+2017;Lucas Janson;A model-free approach to high-dimensional inference;Candes;Mackey, Hastie
+2017;Bai Jiang;Two Parameter Inference Methods in Likelihood-free Models: Approximate Bayesian Computation and Contrastive Divergence;Wong;Lai, Diaconis
+2017;Jiyao Kou;Large-scale inference with block structure;Walther;Lai, Siegmund
+2017;Minyong Lee;Prediction and dimension reduction methods in computer experiments;Owen;Switzer, Taylor
+2017;Haben Michael;Evaluating Diagnostics under Dependency;Tian;Holmes, Siegmund
+2017;Scott Powers;Leveraging similarity in statistical learning;Tibshirani;Friedman, Hastie
+2017;Subhabrata Sen;Optimization, Random Graphs, and Spin Glasses;Dembo/Montanari;Chatterjee
+2017;Amir Sepehri;Non-parametric goodness-of-fit testing and applications;Diaconis;Chatterjee, Bump (Math)
+2017;Xiaoying Tian;Topics in selective inference;Taylor;Hastie, Tibshirani
+2017;Chaojun Wang;Financial Markets and Trading Networks;Duffie (GSB);Krishnamurthy, Jackson, Dembo
+2017;Charles Yang Zheng;Supervised Evaluation of Representations;Hastie/Taylor;Efron, Poldrack (Psych)
+2016;Kinjal Basu;Quasi-Monte Carlo Methods in Non-Cubical Spaces;Owen;Candes, Chatterjee
+2016;Bhaswar Bhattacharya;Power of Graph-Based Two-Sample Tests;Diaconis;Chatterjee, Holmes, Friedman
+2016;Yunjin Choi;Selecting the dimension of a subspace in principal component analysis and canonical correlation analysis;Tibshirani;Taylor, Johnstone
+2016;Hera He;Efficient Permutation P-value Estimation for Gene Set Tests;Owen;Wong, Hastie
+2016;Yuming Kuang;Adaptive Particle Filters in Hidden Markov Models: A New Approach and Its Applications;Lai;Wong, Walther
+2016;Linxi Liu;Convergence rates of a class of multivariate density estimators based on adaptive partitioning;Wong;Candes, Siegmund
+2016;Joshua Loftus;Post-selection Inference for Models Characterized by Quadratic Constraints;Taylor;Candes, Tibshirani
+2016;Leonid Pekelis;False Discoveries with Dependence, Towards an Objective Inference;Efron;Taylor, Owen, Johnstone
+2016;Stephen Reid;A general framework for estimation and inference from prototypes of feature clusters;Tibshirani;Hastie, Taylor
+2016;Milan Shen;Contributions to Fault Detection and Diagnosis with High-Dimensional Data;Lai;Siegmund, Walther
+2016;Weijie Su;Multiple Testing and Minimax Estimation in Sparse Linear Regression;Candes;Siegmund, Johnstone
+2016;Stefan Wager;Causal Inference with Random Forests;Efron, Walther;Hastie, Liang
+2016;Jingshu Wang;Factor Analysis for High Dimensional Data;Owen;Wong, Walther
+2016;Qingyuan Zhao;Topics in Causal and High Dimensional Inference;Hastie;Owen, Tibshirani
+2015;Will Fithian;Topics in Adaptive Inference;Hastie;Candes, Taylor, Tibshirani
+2015;Sam Gross;A Selective Approach to Internal Inference;Tibshirani;Holmes, Hastie
+2015;Jian Li;Two Projects About Change-point Detection;Siegmund;Walther, Lai
+2015;Dennis Sun;Valid Inference After Data Snooping;Taylor;Walther, Smith (Music/EE)
+2014;Anirban Basak;Probability models on large random graphs and matrices;Dembo;Chatterjee, Montanari
+2014;Alexandra Chouldechova;False discovery rate control for spatial data;Candes;Tibshirani, Siegmund
+2014;Matan Gavish;Topics in Matrix Inference;Donoho;Johnstone, Coifman (Yale)
+2014;Max Grazier G'sell;Inference for correlation-based hierarchical clustering of variables;Tibshirani;Hastie, Taylor
+2014;Austen Head;Statistical Methods on Graphs;Holmes;Chatterjee, Diaconis
+2014;Sumit Mukherjee;Estimation in exponential families with unknown normalizing constant;Diaconis;Chatterjee, Dembo
+2014;Nike Sun;Gibbs measures and phase transitions on locally tree-like graphs;Dembo;Chatterjee, Montanari
+2013;Rudy Angeles;Approaches for Local False Discovery Rates;Holmes;Tang, Efron, Walther, Tibshirani
+2013;Hao Chen;Two Graph-Based Tests for High-Dimensional Inference;Zhang, Siegmund;Friedman
+2013;Pei He;Non-Proportional Hazards in Clinical Trials with Failure-Time Endpoints;Lai;Lavori, Mei-Chiung Shih
+2013;Olivia Yueh-Wen Liao;Adaptive Design of Clinical Trials with Interim Selection of Treatment Arms;Lai;Lavori, Mei-Chiung Shih
+2013;Michael Lim;The Group-Lasso: Two Novel Applications;Hastie;Taylor, Tibshirani
+2013;Yi Liu;Detection of Multiple Change-points: Sequential Testing and Model Selection;Siegmund;Walther, Zhang
+2013;Luo Lu;Multivariate Density Estimation by Bayesian Sequential Partitioning and its Applications;Wong;Walther, Hastie, Owen
+2013;Gourab Mukherjee;Sparsity and Shrinkage in Predictive Density Estimation;Johnstone;Diaconis, Donoho
+2013;Nelson Ray;Topics in Two-Sample Testing;Holmes;Diaconis, Efron, Friedman
+2013;Noah Simon;Testing and Estimation of Interactions in High Dimensions;Tibshirani;Efron, Friedman, Olshen
+2013;Yong Su;Statistical Methods for Dynamic Panel Data and Their Applications;Lai;Friedman, Olshen, Rajaratnam
+2012;Jacob Bien;A Lasso for Hierarchical Interactions;Tibshirani;Hastie, Taylor
+2012;Camilo Rivera Guerrero;Detection of bumps on the intensity function of an inhomogeneous Poisson process;Walther;Taylor, Zhang
+2012;Juegang Hu;Uncertainty Quantification in High Dimensional Model Selection and Inference for Regression;Rajaratnam;Efron, Johnstone, Romano
+2012;Brad Klingenberg;Searching for structured interactions in and between datasets;Taylor;Hastie, Walther
+2012;Philip Labo;Yeast and Chemostats, Balls and Urns: Two comments on the dynamics of adaptive evolution;Siegmund;Tang, Zhang
+2012;Jun Li;Differential Expression Identification and False Discovery Rate Estimation in RNA-Seq Data;Tibshirani;Hastie, Wong
+2012;Rahul Mazumder;Topics in Sparse Multivariate Statistics;Hastie;Friedman, Tibshirani
+2012;Jiaqi Shen;Change-Point Models on Point Processes and Applications in Genomics;Zhang;Siegmund, Wong
+2012;Shilin Zhu;Probabilistic and Statistical Modeling of Fixed Income Assets;Lai;Dembo, Giesecke
+2011;Murat Ahmed;Topics in unsupervised learning: feature selection and multi-modality;Walther;Walther, Tibshirani, Lai
+2011;Su Chen;Consistency and convergence rate of Markov Chain Quasi Monte Carlo with Examples;Owen;Owen, Lai, Wong
+2011;Yi Fang Chen;Statistical combination of climate models;Switzer;Switzer, Walther, Zhang
+2011;Justin Dyer;Visualizing and modeling joint behavior of categorical variables with a large number of levels;Owen;Owen, Walther, Cover
+2011;Nicholas Johnson;Efficient models and algorithms for problems in genomics;Wong;Wong, Hua Tang, Tibshirani
+2011;Li Ma;Coupling optional Polya trees and the two sample problem;Wong;Wong, Siegmund, Tibshirani
+2011;Omkar Muralidharan;A Mixture Model Approach to Empirical Bayes Testing and Estimation;Efron;Efron, Zhang, Tibshirani
+2011;Kevin Sun;Dynamic Empirical Bayes Models and Their Applications to Longitudinal Data;Lai;Lai, Zhang, Walther
+2011;Yunting Sun;On Latent Systemic Effects in Multiple Hypotheses;Owen, Zhang;Efron, Wong
+2011;Ryan Tibshirani;The Solution Path of the Generalized Lasso;Taylor;Taylor, Candes, Hastie
+2011;Feng Zhang;Cross-Validation and Regression Analysis in High-Dimensional Sparse Linear Models;Lai;Lai, Rajaratnam, Zhang
+2010;Genevera Allen;Transposable Regularized Covariance Models with Applications to High-dimensional Data;Tibshirani;Tibshirani, Owen, Taylor
+2010;Ling Chen;Option Pricing and Hedging with Transaction Costs;Lai;Lai, Rajaratnam, Walther
+2010;Shaojie Deng;Sequential methods for rare event simulations: theory and applications;Lai;Lai, Siegmund, Kay Giesecke
+2010;David Hiller;Alternative Splicing Analysis using RNA-Seq Data;Wong;Wong, Olshen, Owen
+2010;Zongming Ma;Contributions to High Dimensional Principal Component Analysis;Johnstone;Johnstone, Diaconis, Tibshirani
+2010;Donal McMahon;Research Synthesis for Multiway Tables of Varying Shapes and Size;Hastie;Hastie, Tibshirani, Wong
+2010;Chung Kwan Pong;Interest Rate Modeling and a Time Series Model for Functional Data;Lai;Lai, Walther, Switzer
+2010;Bo Shen;Probability Forecast: Evaluation and Early Warning;Lai;Lai, Mei-Chiung Shih, Walther
+2010;Daniela Witten;A Penalized Matrix Decomposition, and its Applications;Tibshirani;Tibshirani, Rajaratnam, Taylor
+2010;Ya Xu;Semi-Supervised Learning on Graphs --- A Statistical Approach;Owen;Owen, Tibshirani, Wong
+2009;Sarah Emerson;Small sample performance and calibration of the Empirical Likelihood Method;Owen;Owen, Romano, Walther
+2009;Holger Hoefling;Topics in machine learning;Tibshirani;Tibshirani, Hastie, Owen
+2009;Yuxue Jin;Regression modelling of competing risks with applications to bone marrow transplantation studies and mortgage prepayment and default analysis;Lai;Lai, Switzer, Shih
+2009;Kshitij Khare;Extension of Dynkin's and Diaconis-Evans' constructions of Gaussian fields from Markov processes, etc.;Diaconis, Rajaratnam;Diaconis, Dembo, Holmes
+2009;Gen Nowak;Some methods for analyzing high-dimensional genomic data;Tibshirani;Tibshirani, Hastie, Walther
+2009;Patrick Perry;Cross-validation for unsupervised learning;Owen;Owen, Johnstone, Taylor
+2009;Baiyu Zhou;A method for the analysis of multi-factorial time course microarray data with applications to a clinical burn study;Wong;Wong, Siegmund, Zhang
+2008;Jiehua Chen;Regression models with spatially correlated errors: Applications to urban core growth in China;Switzer;Switzer, Siegmund, Rozelle
+2008;Zehao Chen;Estimation of high dimension covariance matrix and adaptive portfolio selection;Lai;Lai, Walther, Switzer
+2008;Guillaume Horel;Estimating integrated volatility with Markov Chains;Hansen;Hansen, Lai, Romano
+2008;Karen Kapur;Modeling background and cross-hybridization effects of microarray probes;Wong;Wong, Tibshirani, Holmes
+2008;Yiyuan She;Sparse regression with exact clustering;Owen;Owen, Hastie, Friedman, Walther
+2008;Zhen Wei;Greedy functional learning machine in finance;Lai;Lai, Ye, Walther
+2008;Hua Zhou;Topics on Markov chains with polynomial eigenfunctions;Diaconis;Diaconis, Siegmund, Coram
+2007;George Chang;Tools for multivariate bump hunting;Walther;Walther, Romano, Tibshirani
+2007;Andreas Eckner;Two essays on credit default correlation;Duffie;Duffie, Giesecke, Lai
+2007;Amy (Sisi) Kapp;Cluster analysis with the in-group proportion;Tibshirani;Tibshirani, Hastie, Stefanie Jeffrey
+2007;Ping Li;Stable random projections and conditional random sampling, two sampling techniques for modern massive datasets;Hastie;Hastie, Owen, Tibshirani
+2007;Julia Salzman;Spectral analysis with Markov Chains;Diaconis;Diaconis, Holmes, Wong
+2007;Seth Tribble;Markov Chain Monte Carlo algorithms using completely uniformly distributed sequences;Owen;Owen, Hastie, Jackman
+2007;Brit Turnbull;Empirical null distributions and local false discovery rates;Efron;Efron, Lavori, Hastie
+2007;Gillian Ward;"Statistics in ecological modeling; the presence-only problem and other procedures";Hastie;Hastie, Tibshirani, Rogosa
+2006;Yaqian Guo;High dimensional classification with application in microarray analysis;Tibshirani;Tibshirani, Hastie, Dill
+2006;Jiarui Han;Dynamic portfolio management;Lai;Lai, Primbs, Van Roy
+2006;Wei Jin;A Bayesian approach for additive-multiplicative hazard models;Lai;Lai, Switzer, Walther
+2006;Jingyang Li;Contributions to Bayesian survival analysis;Lai;Lai, Romano, Walther
+2006;Charles Mathis;A statistic for measuring the value of side information in investment;Cover;Cover, Diaconis, Efron
+2006;Mee Young Park;Generalized linear models with regularization;Hastie;Hastie, Owen, Tibshirani
+2006;Elizabeth Purdom;Multivariate kernel methods in the analysis of graphical structures;Holmes;Holmes, Wong, Owen
+2006;Armin Schwartzman;Random ellipsoids and false discovery rates: statistics for diffusion tensor imaging data;Efron;Efron, Hastie, Taylor
+2006;Jianxin Shi;Quantitative trait mapping using large pedigrees and model selection;Siegmund;Siegmund, Holmes, Whittemore
+2006;Victoria Stodden;Model selection when the number of variables exceeds the number of observations;Donoho;Donoho, Hastie, Tibshirani, Olkin, Efron
+2006;Haipeng Xing;Change-point stochastic regression models with applications to econometric time series;Lai;Lai, Siegmund, Walther
+2006;Nancy Ruonan Zhang;Change-point models and sequence alignments: Statistical problems of genomics;Siegmund;Siegmund, Dembo, Holmes
+2006;Hui Zou;Some perspectives of sparse statistical modeling;Hastie;Hastie, Efron, Tibshirani
+2005;Ery Arias-Castro;Graphical Structures for Geometric Detection;Donoho;Donoho, Diaconis, Siegmund
+2005;Eric David Bair;Methods for Predicting Patient Survival Based on DNA Microarray Data;Tibshirani;Tibshirani, Hastie, Walther
+2005;Sourav Chatterjee;Concentration Inequalities with Exchangeable Pairs;Diaconis;Diaconis, Dembo, Siegmund
+2005;Matthew David Finkelman;Statistical Issues in Computerized Adaptive Testing;Rogosa;Rogosa, Lai, Switzer
+2005;Giles John Hooker;Diagnostics and Extrapolation in Machine Learning;Friedman;Friedman, Owen, Hastie
+2005;Noureddine El Karoui;Extended Validity of Tracy-Widom Limiting Law, With Statistical Applications;Johnstone, Donoho;Johnstone, Donoho, Diaconis
+2005;Ruixue Liu;New Findings of Functional ANOVA with Applications to Computational Finance and Statistics;Owen;Owen, Duffie, Efron, Walther
+2005;Debashis Paul;Nonparametric Estimation of Principal Components;Johnstone;Johnstone, Olshen, Walther
+2005;Jie Peng;Robust Statistics of Variance Component Models to Map Genes in Humans;Siegmund;Siegmund, Owen, Whittemore
+2005;Eric Alan Stone;Statistical Advances in Interspecific Data Analysis;Sidow;Sidow, Romano, Tibshirani
+2005;Sergiy Terentyev;Asymmetric Counterparty Relations in Default Modeling;Lai;Lai, Dembo, Owen
+2005;Pei Wang;Statistical Methods for CGH Array Analysis;Tibshirani;Tibshirani, Hastie, Pollack
+2005;Qing-Feng Zhang;A Basis Function Approach to Interest Rate Derivative Valuation;Lai;Lai, Switzer, Walther
+2005;Xiaohu Zhang;Thin Blue Noise Sampling and Its Application to Antialiasing in Computer Graphics;Owen;Owen, Walther, Hanrahan
+2004;Milena Banjevic;Network Designs in Spatial Statistics;Switzer;Switzer, Hastie, Owen
+2004;Geraldine Mary Clarke;Methods and Applications of Estimating Individual Genetic Admixture;Whittemore;Whittemore, Nelson, Siegmund
+2004;Tatiana (Tanya) Logvinenko;Sequential Monte Carlo and Dirichlet Mixtures for Extracting Protein Alignment Models;Liu;Liu, Lai, Owen
+2004;Bogdan Popescu;Ensemble Learning for Prediction;Friedman;Friedman, Hastie, Tibshirani
+2004;Steven Peter Roberts;A Statistical Investigation of Particulate Air Pollution Mortality Time Series Study;Switzer;Switzer, Hastie, Walther
+2004;Kwong Hiu Yung;Update Algorithms for Masquerade Detection;Friedman;Friedman, Ullman, Owen
+2003;Ilana Belitskaya;Finding Multiple Clustering Structures in Data, with Applications to DNA Microarrays;Tibshirani;Tibshirani, Friedman, Walther
+2003;Antje Berndt;Estimating the Term Structure of Credit Spreads: Callable Corporate Debt;Duffie;Duffie, Dembo, Lai
+2003;Arnab Chakraborty;An Attempt to Perform Bengali Optical Character Recognition;Diaconis;Diaconis, Hastie, Holmes
+2003;Carrie Grimes;Theoretical Methodology for Nonlinear Dimensionality Reduction;Donoho;Donoho, Papanicolaou, Johnstone
+2003;Kristofer Jennings;A New Approach to Bias Reduction Using the Iterated Bootstrap;Owen;Owen, Efron, Romano
+2003;Tao Jiang;Data Driven Shrinkage Strategies for Quasi-Regression;Owen;Owen, Donoho, Hastie
+2003;Jia Shun Jin;Detecting and Estimating Sparse Mixtures;Donoho;Donoho, Johnstone, Siegmund
+2003;Johan Lim;Hidden Variable Models and Their Applications;Dembo;Dembo, Gray, Lai
+2003;Haiyan Liu;Autoregressive Models with Time-Varying Parameters and Applications to Financial Time Series;Lai;Lai, Switzer, Walther
+2003;Regina Nuzzo;Stochastic Models for Lipid Biochemistry;Olshen;Olshen, Johnston, Switzer
+2003;Saharon Rosset;Boosting and Other Exact and Approximate Methods for Parametric Regularized Optimization;Friedman/Hastie;Tibshirani
+2003;Ji Zhu;Flexible Statistical Modeling;Hastie;Hastie, Efron, Tibshirani
+2002;Marc Coram;Nonparametric Bayesian Classification;Diaconis;Diaconis, Efron, Friedman
+2002;Jing Huang;Classification with High-Dimensional Predictors and Qualitative Response Application to Genetics;Olshen;Olshen, Efron, Tibshirani
+2002;Wenzhi Li;Confidence Intervals Following Group Sequential Trials with Random Group Sizes and Applications to Survival Analysis;Lai;Lai, Siegmund, Walther
+2002;Arthur Yu Lu;Sparse Principal Component Analysis for Functional Data;Johnstone;Johnstone, Owen, Walther
+2002;Jorge Picazo;Machine Learning Characterization of Decision Boundaries in Multi-Dimensional American Options;Owen;Owen, Friedman, Hastie
+2002;Dylan Small;Inference and Model Selection for Instrumental Variables Regression;Lai;Lai, Romano, Siegmund
+2002;John Storey;False Discovery Rates Theory and Applications to DNA Microarrays;Tibshirani;Tibshirani, Johnstone, Siegmund
+2002;Hua Tang;Statistical Methods for Two Problems in DNA Sequence Comparisons;Siegmund;Efron, Feldman
+2001;Derek Brian Boothroyd;Spline Fitting and a Random Coefficient Model of Longitudinal Irregularly Spaced Data with an Application to Diabetic Nephropathy;Olshen;2001
+Lingyu Chen;Extensions of Stochastic Approximation for High Dimensional Optimization with Applications to Investment Allocation and Nonlinear Experimental Design;Owen;Owen, Liu, Walther;2006
+2001;Yuguo Chen;Sequential Importance Sampling with Resampling: Theory and Applications;Lai;2001
+Shingchang Kou;Extended Exponential Criterion: A New Selection Procedure for Scatterplot Smoothers;Efron;Efron, Johnstone, Tibshirani;2001
+Mu Zhu;Feature Extraction and Dimension Reduction with Applications to Classification and the Analysis of Co-Occurence Data;Hastie;Hastie, Friedman, Tibshirani;2000
+David Elashoff;Linkage mapping in S. Cervisias with Hidden Markov Models;Siegmund;2000;Kai-Fai Ho
+Mathematical Frameworks for Population Growth Modelling;Siegmund;Siegmund, Liu, Switzer;2000;Tongwei Liu
+Segmentation and Estimation in Stochastic Systems with Occasional Parameter Changes;Lai;Lai, Liu, Siegmund;2000;Sandra McBride
+Statistical Modeling of Indoor Air Pollutant Concentration Time Series;Switzer;2000;Mei Chiung Shih;Estimation in Nonlinear Mixed Effects Models: Parametric and Nonparametric Approaches
+Lai;Lai, Liu, Olshen;2000;Viktor Spivakovsky;Multiperiod Control in Stochastic Regression Models
+Lai;2000;Asya Rabinovich Takken;Monte Carlo Goodness-of-Fit Tests for Discrete Data;Diaconis
+Diaconis, Johnstone, Stein;2000;Hsiu-Khuern Tang;Using Variance Components to Map Quantitative Trait Loci in Humans;Siegmund
+Siegmund, Dembo, Liu;2000;Julia Tung;Parameter Estimation in Stochastic Volatility Models and Hidden Markov Chains;Lai
+1999;Stephen John Ellis;Locally Adaptive Principal Components for Intrinsic Dimensionality and Density Estimation;Friedman;Friedman, Hastie, Owen
+1999;Ilya Gluhovsky;Image Restoration Through Modifications of Markov Chain Samplers;Switzer;Switzer, Owen, Walther
+1999;Alan Thornton Gous;Exponential and Spherical Subfamily Models;Efron;Efron, Hastie, Switzer
+1999;Xiaoming Huo;Sparse Image Representation via Combined Transforms;Donoho;Donoho, Boyd, Saunders
+1999;Tiefeng Jiang;Maxima of Partial Sums Indexed by Geometrical Structures;Dembo;Dembo, Lai, Stein
+1999;Tiong Wee Lim;Recursive Integration and Optimal Stopping: Applications to Option Pricing;Lai;Lai, Dembo, Walther
+1998;Emmanuel J. Candès;Ridgelets: Theory and Applications;Donoho;Johnstone, Papanicolaou
+1998;Hockpeng Chan;Boundary Crossing Theory in Change-Point Detection and Its Applications;Lai;Lai, Siegmund, Dembo
+1998;Michael Adam Hochster;Adaptive Bootstrap L/4-Estimation;Romano;Romano, Switzer, Efron
+1998;Gareth Michael James;Majority Vote Classifiers: Theory and Applications;Hastie;Hastie, Friedman, Owen
+1998;Yigal Dan Rubinstein;Discriminative vs. Informative Learning;Hastie;Hastie, Friedman, Owen
+1998;Chiara Sabatti;Group Transformations and Dimensionality Reduction in Transitive MCMC;Liu;Hastie, Lai
+1998;Bronislava Markovna Sigal;Detection of a Smooth Signal in Fixed Sample and Sequential Problems;Siegmund;Siegmund, Walther, Johnstone
+1998;Catherine Ann Sugar;Techniques for Clustering and Classification with Applications to Medicine;Olshen;Olshen, Efron, Friedman
+1998;Weidong Wang;Adaptive Metrology and Mask Inspection;Owen;Owen, Pease, Switzer
+1998;Yi Zhou;Adaptive Importance Sampling for Integration;Owen;Owen, Friedman, Hastie
+1997;Jonathan B. Buckheit;Statistical Applications of Adaptive Basis Selection;Donoho;Donoho, Olshen, Johnstone
+1997;Ching-Fer (Sophia) Chen;Analysis of R-Scan Statistics for Marker Arrays inChen Correlated Sequences;Karlin;Karlin, Dembo, Lai
+1997;Hui Chen;Bootstrap Assisted Goodness of Fit Tests in the Frequency Domain;Romano;Romano, Switzer, Efron
+1997;Neil James Crellin;Modeling Image Sequences, with Particular Application to FMRI Data;Hastie;Hastie, Friedman, Johnstone
+1997;I-Ping Tu;Theory and Applications of Scan Statistics;Siegmund;Siegmund, Whittemore, Lai
+1997;Po Shing (Sam) Wong;Stochastic Neural Networks and Their Applications to Regression Analysis and Time Series Forecasting;Lai;Lai, Olshen, Hastie
+1997;James Hui Yen;Robust Estimation of Effect Sizes in Meta-Analysis;Olkin;Olkin, Switzer, Kraemer
+1996;Sudeshna Adak;Time Dependent Spectral Analysis of Nonstationary Time Series;Johnstone;Johnstone, Donoho, Efron
+1996;Shaobing Chen;Basis Pursuit;Donoho;Donoho, Johnstone, Saunders
+1996;Keith Martin Gregg;Statistical Applications of Eigenvalue Expansions;Olkin;Olkin, Lai, Liu
+1996;Jinho Park;Nonparametric Function Estimation with Left-Truncated and Right-Censored Data;Lai;Lai, Owen, Switzer
+1996;Abhinanda Sarkar;On a Randomization Method for Model-Free Regression Diagnostics;Efron;Efron, Owen, Liu
+1996;Jun Teng;Statistical Methods in Linkage Analysis;Siegmund;Siegmund, Lai, Risch
+1996;Michael Wolf;Subsampling for Nonstationary Time Series with an Application to Finance;Romano;Romano, Switzer, Walther
+1995;Chin-Shan Chuang;Estimation with Resampling After Sequential Tests;Lai;Lai, Romano, Liu
+1995;Todd Lawrence Graves;Comparison of Treatments Under Adaptive Treatment Allocation in Clinical Trials and Stochastic Adaptive Control;Lai;Lai, Johnstone, Siegmund
+1995;David Alexander Hull;Information Retrieval Using Statistical Classification;Friedman;Friedman, Owen, Pedersen
+1995;Hak-Sing (Eddie) Ip;A Stochastic EM Estimator in the Presence of Missing Data-Theory and Applications;Olkin;Olkin, Romano, Switzer
+1995;Chul-Ki Kim;Nonparametric Regression for Censored and Truncated Data;Lai;Lai, Efron, Hastie
+1995;Stephanie Ruth Land;Adaptive Signal Regression;Friedman;Friedman, Olshen, Hastie
+1995;Charles Benjamin Roosen;Visualization and Exploration of High-Dimensional Functions Using the Functional Anova Decomposition;Friedman;Friedman, Owen, Hastie
+1995;Zhaolin Shan;Sequential Detection of Parameter Changes in Linear Dynamic Systems and Regression Models;Lai;Lai, Anderson, Romano
+1994;Josee Dupuis;Statistical Problems Associated with Mapping Complex and Quantitative Traits from Genomic Mismatch Scanning Data;Siegmund;Siegmund, Olshen, Owen
+1994;Eric David Kolaczyk;Wavelet Methods for the Inversion of Certain Homogeneous Linear Operators in the Presence of Noisy Data;Donoho;Donoho, Olshen, Johnstone
+1994;Craig Ronald Kollman;Rare Event Simulation in Radiation Transport;Glynn;DiCiccio, Adhikari
+1994;Yoichi Kuwana;Optimal Consumption/Investment Decisions with Partial Observations;Siegmund;Siegmund, Duffie, Dembo
+1994;Steve Edward Stern;Asymptotic Corrections for Adjusted Profile Likelihoods;DiCiccio;DiCiccio, Martin, Romano
+1994;Linfeng You;Tests and Confidence Regions for Spectral Distribution Functions Based on the Kolmogorov-Smirnov Statistic;Anderson;Anderson, Romano, Johnstone
+1993;Kenneth Charles Baron;Predicting Changes in Financial Time Series;Anderson;Anderson, Switzer, Attansio
+1993;Eleanor Feingold;Modeling a New Genetic Mapping Method;Siegmund;Siegmund, Adhikari, Whittermore
+1993;Douglas J. Haney;Methods for Analyzing Discrete-Time, Finite State Markov Chains;Olshen;Olshen, Brown, Johnstone
+1993;Alex McMillan;The Risk of the Stein Estimator;Diaconis;Diaconis, Johnstone, Stein
+1993;David Eric Shapiro;Meta-Analysis in ROC Space: Combining Independent Studies of a Diagnostic Test;Moses;Moses, Efron, Johnstone
+1993;Abraham Joshua Wyner;String Matching Theorems and Applications to Data Compression and Statistics;Adhikari;Adhikari, Cover, Dembo
+1993;Limin Zhang;Asymptotically Optimal Sequential Tests of Linear Hypotheses in Multiparameter Exponential Families;Lai;Lai, Dembo, DiCiccio
+1992;Rebecca Betensky;A Study of Sequential Procedures for Comparing Three Treatments;Siegmund;Siegmund, Lai, Brown
+1992;Ennapadam Seshan Venkatraman;Consistency Results in Multiple Change-Point Problems;Siegmund;Siegmund, Olshen, Lai
+1992;Guangrui Zhu;Least Squares Estimation and Adaptive Prediction in Non-Linear Stochastic Regression Models with Applications to Time Series and Stochastic Systems;Lai;Lai, Anderson, Johns
+1991;Mark Matthews;Linear Statistical Models and Methods for Function Estimation on a Space-time Domain, with Applications to Geophysical Inverse Problems;Johnstone;Johnstone, Switzer, Segall
+1991;Daniel Rabinowitz;Estimating Undiscovered Resources Using Exploration History;Siegmund;Siegmund, Switzer, Efron
+1991;Qizhi Wang;Edgeworth Expansions and Bootstrap Methods in Survival Analysis;Lai;Lai, Efron, Martin
+1991;Huiyue Xiao;Nonparametric Procedures for Conditional CDF Approximation in Spatial Fields;Switzer;Switzer, Journel, Solomon
+1991;Hang Paul Zhang;A Study of Change-Point Problems;Siegmund;Siegmund, Johnstone, Dembo
+1991;Heping Zhang;Confidence Regions in Nonlinear Regression and Geometry;Siegmund;Siegmund. Olshen, Johnstone
+1990;Kirk Cameron;Two-Stage Sampling of Spatial Fields;Switzer;Switzer, Solomon, Journel
+1990;Kim-Anh Do;Some Results in Statistical Modeling and Estimation for Software Reliability Problems;Friedman;Friedman, Johns, Solomon
+1990;James Robert Koehler;Design and Estimation Issues in Computer Experiments;Owen;Owen
+1990;Chitra Yeshwant Lele;Admissibility Results in Loss Estimation;Johnstone;Johnstone, Stein, Siegmund
+1990;Catherine Loader;Change Point Problems for Poisson Processes;Siegmund;Siegmund
+1990;Sally Claire Morton;Interpretable Projection Pursuit;Friedman;Friedman, Efron, Owen
+1990;Jan Otto Pedersen;IDL- A Statistical Programming Environment;Friedman;Friedman, Johnstone, Kaplan
+1990;Dimitris Nicolas Politis;A General Resampling Scheme for Time Series with Weak Dependence;Romano;Romano, Lai, Efron
+1990;David John Wright;Restricted Sign Randomization Tests;Moses;Moses, DiCiccio, Efron
+1989;Joseph T. Chang;Random Walks, Moderate Deviations, and the Cusum Procedure;Siegmund;Siegmund, Lai, Shepp
+1989;Kevin Coakley;Spatial Statistics for Predicting Flow Through a Rock Fracture;Switzer;Switzer, Owen, Long
+1989;Eric Holmgren;Utilizing P-P Plots in Meta-Analysis As General Measures of Treatment Effects;Olkin;Olkin
+1989;Jiayang Sun;$P$-Values in Projection Pursuit;Siegmund;Siegmund, Friedman, Johnstone
+1989;Achilles Venetoulias;Parameter Estimation in Image Processing Models;Switzer;Switzer, Efron, Owen
+1989;Yanning Zhang;Expected Sample Size of Truncated Sequential Tests;Siegmund;Siegmund, Lai, Fill
+1988;Naomi Altman;Smoothing Data with Correlated Errors;Johnstone;Johnstone
+1988;Eduardo Engel;A Road to Randomness;Diaconis;Diaconis
+1988;Timothy C. Hesterberg;Advances in Importance Sampling;Efron;Efron, Johns, Glynn
+1988;Donald R. Hoover;Selective Inclusion-Exclusion Methods and Applications;Solomon;Solomon, Olkin, Efron
+1988;Hyune-ju Kim;Change-Point Problems in Regression;Siegmund;Siegmund, Lai, Johnstone
+1988;Christian Leger;Use of the Bootstrap in an Adaptive Statistical Procedure;Romano;Romano, DiCiccio, Efron
+1988;Wei-Liem Loh;Estimating Covariance Matrices;Stein;Stein, Olkin, Johnstone
+1988;Hal Steven Stern;Gamma Processes, Paired Comparison and Ranking;Cover;Cover, Switzer, Efron
+1988;Clifton D. Sutton;Random Packing and Random Covering Sequences;Solomon;Solomon, Diaconis, Johns
+1987;Mark Donald Knowles;Simultaneous Confidence Bands for Random Functions;Switzer;Switzer, Johnstone, Owen
+1987;Art B. Owen;Nonparametric Conditional Estimation;Friedman;Friedman, Johnstone, Solomon
+1986;Richard D. DeVeaux;Parameter Estimation for a Mixture of Linear Regressions;Diaconis;Diaconis, Moses, Solomon
+1986;Inchi Hu;Repeated Significance Tests for Exponential Families;Siegmund;Siegmund
+1986;Peter Claver Matthews;Covering Problems for Random Walks on Spheres and Finite Groups;Diaconis;Diaconis, Siegmund, Johnstone
+1986;Mark R. Segal;Regression Trees Based on Rank Statistics;Friedman;Friedman, Moses, Efron
+1985;Deborah Burr-Doss;On Errors-in-Variables in Bioassay Regression -- Berkson Case;Miller;Miller, Brown, Efron
+1985;Khosrow Dehnad;Boundary Detection in Smoothers for Classification of Spatial Data;Switzer;Switzer, Friedman, Solomon
+1985;Huang Hsu;Invariant Tests and Likelihood Ratio Tests for Multivariate Elliptically Contoured Distributions;Anderson;Anderson
+1985;Joseph Charles Marhoul;A Model for Large Sparse Contingency Tables;Friedman;Friedman, Solomon, Efron
+1985;Robert Tibshirani;Local Likelihood Estimation;Efron;Friedman, Switzer
+1984;Sherrie Emiko Emoto;The Preferred Choice Between the Maximum Likelihood Estimator and the Kaplan-Meier Estimate;Miller;Miller, Efron, Brown
+1984;Timothy Allen Green;Asymptotic Enumeration of Latin Rectangles and Associated Waiting Times;Steele;Steele, Switzer, Fill
+1984;David Henry;Multiplicative Models in Projection Pursuit;Friedman;Friedman, Stuetzle, Switzer
+1984;Michael Leo Hogan;Problems in Boundary Crossing for Random Walks;Siegmund;Siegmund, Johnstone, Diaconis
+1984;Myung-Hoe Huh;Regression Analysis of Multicollinear Data;Olkin;Olkin, Solomon, Switzer
+1984;Michael Stein;Estimation of Spatial Variability;Switzer;Switzer, Olkin, Johnstone
+1984;Terry Therneau;Variance Reduction Techniques for the Bootstrap;Efron;Efron, Johns, Friedman
+1983;Byoung Seon Choi;A Conditional Limit Characterization of the Maximum Entropy Spectral Density in Time Series Analysis;Cover;Anderson, Efron
+1983;David Fairley;Statistical Analysis of Ambient Oak Pollen Concentrations: San Francisco Bay Area Case Study;Switzer;Moses, Efron
+1983;Jerry Halpern;Robust Quantal Assay, Censored Regression and Maximally Selected Chi-Squared Statistics;Miller;Brown, Efron
+1983;Endel John Orav;Discrete Time Alternating Processes and Effects Due to Noise;Miller;Efron, Lewis
+1983;Stephen Charles Peters;Bootstrapping a Regression Equation: Some Empirical Results;Efron;Diaconis, Anderson
+1983;Thomas Martin Sellke;Large Sample Theory for Sequential Analysis of the Proportional Hazards Model;Siegmund;Miller, Efron
+1983;Michael Wenocur;A Production Network Model and Its Diffusion Approximation;Harrison;Fill, Siegmund
+1982;Keaven M. Anderson;Moment Expansions for Robust Statistics;Johns;Johns, Fill, Efron
+1982;Chen-Hsin Chen;Correlation-Type Goodness-of-Fit Tests for Randomly Censored Data;Miller;Miller, Brown, Solomon
+1982;Michael Richard Crager;Exponential Tail Quantile Estimators for Air Quality Data;Switzer;Switzer, Johns, Solomon
+1982;Hani Doss;Bayesian nonparametric estimation of location;Diaconis;Diaconis, Siegmund, Johns
+1982;Glenn Joseph Galfond;Robust Estimation of Extreme Quantiles;Switzer;Switzer, Solomon, Johns
+1982;Gail Gong;Cross-Validation, the Jackknife, and the Bootstrap: Excess Error Estimation in Forward Logistic Regression;Efron;Efron, Moses, Miller
+1982;Fred W. Huffer;The Moments and Distributions of Some Quantities Arising from Random Arcs on the Circle;Solomon;Solomon, Efron, Johnstone
+1982;Satish Iyengar;On the Evaluation of Certain Multivariate Normal Probabilities;Solomon;Solomon, Miller, Olkin
+1982;Anthony Kuk;A Mixing Distribution Approach to Estimating Particle Size Distributions;Solomon;Solomon, Switzer, Efron
+1982;John Alan McDonald;Interactive Graphics for Data Analysis;Stuetzle;Stuetzle, Friedman, Golub
+1982;Akimichi Takemura;A Statistical Approach to Zonal Polynomials;Anderson;Anderson, Diaconis, Olkin
+1982;Joseph S. Verducci;Discriminating Between Two Populations on the Basis of Ranked Preferences;Olkin;Olkin, Diaconis, Solomon
+1982;Arif Zaman;An Approximation Theorem for Finite Markov Exchangeability;Diaconis;Diaconis, Shepp, Steele
+1981;Michael Lee Cohen;An Adaptive R-Estimate;Johns;Johns, Solomon, Suppes
+1981;Edward Ian George;Sequential Stochastic Construction of Random Polygons;Solomon;Solomon, Efron, Steele
+1981;Gabrielle E. Kelly;The Influence Function in the Errors in Variables Problem;Miller;Miller, Efron, Diaconis
+1981;Steven Paul Lalley;Repeated Likelihood Ratio Tests for Curved Exponential Families;Siegmund;Siegmund, Steele, Efron
+1981;Neil Holland Willits;An Approach to Superefficient Estimation;Sager;Sager, Switzer, Cover
+1981;Yih-Shyh Yuh;Second Order Corrections for Brownian Motion Approximations;Siegmund;Siegmund, Steele, Fill
+1980;Robert Michael Bell;An Adaptive Choice of the Scale Parameter for M-Estimators;Johns;Johns, Switzer, Miller
+1980;Naihua Duan;Significance Test for Prior Distributions: The Modified Efficient Score Test and Its Asymptotic Theory;Efron;Efron, Switzer, Stein
+1980;Chen-Hui Lin Foo;Probability Modeling and Estimation for Hourly Variation of Air Pollution Concentrations;Switzer;Switzer, Faith, Sager
+1980;William D. Heavlin;A Parametric Analysis of Structured and Unstructured $Q$-Sort Data;Solomon;Solomon, Olkin, Johns
+1980;Alvaro Munoz;Nonparametric Estimation from Censored Bivariate Observations;Brown;Brown, Miller, Efron
+1980;Mahmood Samiei;Tests of Symmetry and Confidence Intervals for Treatment Effects in the Paired Comparison Model;Switzer;Switzer, Johns, Solomon
+1980;Suzanna Chor-Yee Wong;Design for Low Dose Extrapolation of Carcinogenicity Data;Moses;Moses, Brown, Switzer
+1979;Fereydoon Ahrabi;Maximum Likelihood Estimation of the Autoregressive Coefficients and Moving Average Covariances of Vector Autoregressive Moving Average Models;Anderson;Anderson, Faith, Stein
+1979;Andre Francois Cabannes;Estimation of Random Fields from Network Observations;Switzer;Switzer, Olkin, Faith
+1979;Delores Ann Conway;Multivariate Distribution with Specified Marginals;Olkin;Olkin, Efron, Lieberman
+1979;Marlene Jo-Ann Egger;Power Transformations to Achieve Symmetry in Quantal Bioassay;Brown;Brown, Miller, Efron
+1979;Richard Lee Greer;Consistent Nonparametric Estimation of Best Linear Classification Rules/Solving Inconsistent Systems of Linear Inequalities;Diaconis;Diaconis, Cover, Faith
+1979;Carol Lynn Link;Confidence Intervals for the Survival Function Using Cox's Proportional Hazard Model with Covariates;Miller;Miller, Brown, Efron
+1979;Thomas Patrick McWilliams;Properties of Isotonic Estimators of Mean Lifetime in a Simple Prototype Development Model;Lieberman;Lieberman, Olkin, Singpurwalla
+1979;Nancy Margaret Reid;Influence Functions for Censored Data;Miller;Miller, Johns, Efron
+1978;Michael Ross Chernick;Verifying Mixing Conditions and Obtaining Limit Theorems for Maxima of Some Strictly Stationary Processes;Faith;Faith, Switzer, Jacobs
+1978;Edward Lee Korn;Classification Errors in Contingency Tables Analyzed with Hierarchical Log Linear Models;Switzer;Switzer, Whittemore, Olkin
+1978;Sue Ellen Leurgans;Asymptotic Distribution Theory in Generalized Isotonic Regression;Sager;Sager, Siegmund, Miller
+1978;William Patrick McCormick;Weak and Strong Laws for the Maxima of Stationary Gaussian Processes;Mittal;Mittal, Siegmund, Switzer
+1978;Ali Rejali;On the Asymptotic Expansions for the Moments and the Limiting Distributions of Some Additive Arithmetic Functions;Diaconis;Diaconis, Stein, Siegmund
+1978;William Hayward Rogers, III;Some Nonparametric Near-Neighbor Techniques;Cover;Cover, Efron, Olkin
+1978;Robert Allen Wesley;Some Contributions to the Theory of Robust Estimation in Regression;Johns;Johns, Miller, Switzer
+1978;Robert Allen Wolfe;Testing for the Effect of the Covariance on the Point Process;Brown;Brown, Miller, Efron
+1977;Joseph Gerard Deken;On Records: Scheduled Maxima Sequences and Longest Common Subsequences;Resnick;Resnick, Switzer, Diaconis
+1977;Beth Charmaine Gladen;Inference from Stopped Bernoulli Trials;Switzer;Switzer, Brown, Sager
+1977;John Edwin Hyde;Life Testing with Incomplete Observations;Miller;Miller, Brown, Efron
+1977;Robert Edward Norland;Empty Confidence Sets in Nonparametric Problems;Switzer;Switzer, Solomon, Johns
+1977;Andrew Francis Siegel;Random Space Filling and Moments of Coverage in Geometrical Probability;Solomon;Solomon, Efron, Diaconis
+1977;Ronald Aaron Thisted;Ridge Regression, Minimax Estimation, and Empirical Bayes Methods;Efron;Efron, Stein, Johns
+1976;Nira Herrmann;Joint Distribution of the Roots of Certain Matrices in Multivariate Analysis Under the Rank One Alternative with Power Studies of the Largest Root Test;Sitgreaves;Sitgreaves, Olkin, Stein
+1976;Raul Pedro Mentz;Asymptotic Properties of Some Estimators in Moving Average Models;Anderson;Anderson, Efron, Olshen
+1976;Terence John O'Neill;Efficiency Calculations in Discriminant Analysis;Efron;Efron, Miller, Mittal
+1976;Arthur Vincent Peterson, Jr.;Nonparametric Estimation in the Competing Risks Problem;Efron;Efron, Miller, Brown
+1976;James Chao-Ming Pong;Simultaneous Estimation of the Parameters of Independent Poisson Distributions;Stein;Stein, Efron, Diaconis
+1976;Ted Howard Szatrowski;Test and Estimating of Multivariate Normal Mean and Covariance Structures which are Compound Symmetric in Blocks;Olkin;Olkin, Young, Sitgreaves
+1976;Andre Tchen;Inequalities for Functionals of Distributions with Given Marginals;Cover;Cover, Stein, Resnick
+1976;Margaret Nakamura Wesley;Bioassay: Estimating the Mean of the Tolerance Distribution;Brown;Brown, Miller, Efron
+1975;David Berengut;Confidence Intervals Based on Rank Tests;Switzer;Switzer, Johns, Chernoff
+1975;Joseph John Chmiel;Some Properties of Spearman Type Estimators of the Variance and Percentiles in Bioassay;Brown;Brown, Miller, Efron
+1975;Marjorie Hrue Fuji Peterson;Statistical Methods for Establishing Comparable Scores in Successive Generations of a Testing Program;Moses;Moses, Olkin, Brown
+1975;Farrokh Guiahi;Invariance Principle for Linear Combinations of Order Statistics;Miller;Miller, Johns, Resnick
+1975;Robert B. Latta;Composition Rules for Probabilities from Paired Comparisons;Cover;Cover, Efron, Switzer
+1975;Albert John Petkau;Sequential Medical Trials for Comparing an Experimental with a Standard Treatment;Chernoff;Chernoff, Solomon, Switzer
+1975;Joan Marie Sander;Asymptotic Properties for Estimators Derived from the Kaplan-Meier Estimator;Miller;Miller, Efron, Brown
+1974;Henry Isaiah Braun;Applications of Weak Convergence to Sequential Nonparametric Statistics;Chernoff;Chernoff, Gordon, Resnick
+1974;Ronald Edward Glaser;Inferences for a Gamma Distributed Random Variable with Both Parameters Unknown, with Applications to Reliability;Lieberman;Lieberman, Olkin, Resnick
+1974;Harold Malcolm Hudson;Empirical Bayes Estimation;Moses;Moses, Brown, Stein, Efron
+1974;James Inglis;Admissible Decision Rules for the Compound Decision Problem;Johns;Johns, Solomon, Gordon
+1974;Larry Randolph Muenz;A Method for the Selection of Variables for Classification of High-Dimensional Data;Switzer;Switzer, Suppes, Chernoff
+1974;Vasan Thanyamanta;Tests for the Equality of Mean Vectors when Some Information Concerning the Covariance Matrices is Available;Olkin;Olkin, Crowther, Sitgreaves
+1974;Jack Leon Tomsky;A New Class of Multivariate Tests Based on the Union-Intersection Principle;Olkin;Olkin, Crowther, Stein
+1973;Nozomu Matsubara;Test Procedures for General Lehmann Alternatives;Chernoff;Chernoff, Switzer, Johns
+1973;Richard Hugh Monahan;Truncated One-Sided Sequential Tests for the Mean of a Normal Distribution;Johns;Johns, Chernoff, Switzer
+1973;Laurel Alison Beckett Smith;Statistical Procedures for Diagnosis Based on Binary Variables;Brown;Brown, Efron, Moses
+1972;Peter Graham Bryant;Tests and Estimates for the Number of Components in a Mixture;Switzer;Switzer, Olkin, Solomon
+1972;Louis Hsiao-Yun Chen;Poisson Approximation for Sums of Dependent Bernoulli Random Variables;Stein;Stein, Chernoff, Efron
+1972;Jay Lewis Devore;Noisy Markov Chains;Switzer;Switzer, Hinkley, Cover
+1972;Stuart William Dufour;Intersections of Random Convex Regions;Solomon;Solomon, Olkin, Efron
+1972;Louis Gordon;Efficiency and Combinatorics in Subsampling;Efron;Efron, Olkin, Solomon
+1972;Dai-Young Kim;Statistical Inference for Constants of Proportionality Between Covariance Matrices;Olkin;Olkin, Switzer, Efron
+1972;Joseph Louis Lockett, III;Convergence in Total Variation of Predictive Distributions: Finite Horizon;Olshen;Olshen, Johns, Efron
+1972;Ashim Kumar Mallik;Sequential Estimation of the Common Mean of Two Normal Populations;Chernoff;Chernoff, Johns, Miller
+1972;Stanley Harvey Shapiro;A Compromise Between the Bayes and Minimax Approaches to Estimation;Efron;Efron, Miller, Haley
+1972;Gary Albert Simon;Information Distances and Exponential Families, with Applications to Contingency Tables;Efron;Efron, Stein, Moses
+1972;Owen Whitby;Estimation of Parameters in the Generalized Beta Distribution;Miller;Miller, Johns, Stein
+1971;Steven Ferris Arnold;Products of Problems and Patterned Covariance Matrices that Arise from Interchangeable Random Variables;Olkin;Olkin, Stein, Strawderman
+1971;Dale Gutzon Borglum;Some Estimators of Parameters from a Selected Population;Solomon;Solomon, Stein, Lieberman
+1971;Edward Abe Brill;Stochastic Models of Vehicular Traffic Congestion;Solomon;Solomon, Wang, Johns
+1971;Marshall Lawrence Clevenson;Asymptotically Efficient Estimates of the Parameters of a Moving Average Time Series;Parzen;Parzen, Hinkley, Olshen
+1971;Peter John Cooke;Sequential Coverage in Geometrical Probability;Solomon;Solomon, Switzer, Johns
+1971;James Cardon Reading;A Multiple Comparison Procedure for Classifying all Pairs out of k Means as Close or Distant;Woodworth;Woodworth, Miller, Sobel
+1971;Warren Francis Rogers;Exact Null Distributions and Asymptotic Expansions for Rank Test Statistics;Woodworth;Woodworth, Switzer, Efron
+1971;Allan Robert Sampson;An Asymptotically Efficient Stepwise Estimator for Exponential Families with Applications to Certain Multivariate Normal Distributions;Olkin;Olkin, Switzer, Johns
+1971;Christopher Stroude Withers;Power and Efficiency of a Class of Goodness of Fit Tests;Woodworth;Woodworth, Chernoff, Hinkley
+1970;Alan Enoch Gelfand;Seriation of Multivariate Observations Through Similarities;Solomon;Solomon, Olkin, Stein
+1970;Perry Morton Gluckman;Applications of Diffusion Approximations to the Collective Theory of Risk;Siegmund;Siegmund, Johns, Miller
+1970;Ralph Eugene Kromer;Asymptotic Properties of the Autoregressive Spectral Estimator;Parzen;Parzen, Anderson, Olshen
+1970;Kathleen Rundle Lamborn;Problems from Biostatistics;Miller;Miller, Moses, Brown
+1970;John Paul Lehoczky;Stochastic Models in Traffic Flow Theory: Intersection Control;Solomon;Solomon, Lieberman, Olshen
+1970;Roberto Sanchez Mariano;On Distributions and Moments of Single-Equation Estimators in a Set of Simultaneous Linear Stochastic Equations;Anderson;Anderson, Olkin, Stein
+1970;Richard William Shorrock;Caravans in Traffic Flow;Solomon;Solomon, Feldman, Switzer
+1970;James Hutchinson Ware;Regression when Both Variables are Subject to Error and the Ranks of Their Means are Known;Efron;Efron, Switzer, Olkin
+1970;Kenneth Laurence Weldon;Stochastic Storage Processes with Multiple Slope Linear Inputs and Outputs;Miller;Miller, Veinott, Gani
+1969;John Kelso Abraham;The Local Power of Sequential Tests Subject to an Expected Sample Size Restriction;Chernoff;Chernoff, Siegmund, Hall
+1969;Peter Ole Anderson;Estimation of Simultaneous Systems of Linear Equations with Nonlinear Constraints Among the Coefficients;Arrow;Arrow, Chernoff, Parzen
+1969;James Norman Arvesen;Jackknifing U-Statistics;Miller;Miller, Moses, Woodworth
+1969;Frederick Philip Glick, Jr.;Estimating Unconditional Probabilities of Correct Classification;Switzer;Switzer, Efron, Moses, Cover
+1969;Susan Helen Horn;The Optimality Criterion in Compound Decision Problems;Johns;Johns, Chernoff, Cover
+1969;Maxwell William John Layard;Asymptotically Robust Tests about Covariance Matrices;Miller;Miller, Olkin, Moses
+1969;Ian Bruce MacNeill;Limit Processes for Spectral Distribution Functions with Applications to Goodness of Fit Testing;Parzen;Parzen, Olshen, Anderson
+1969;Stephen Lane Portnoy;Formal Bayes Estimation with Application to a Random Effects Analysis of Variance Model;Stein;Stein, Efron, Olshen
+1969;Marshall Sylvan;Estimation and Hypothesis Testing for Wishart Matrices when Part of the Covariance Matrix is Known;Olkin;Olkin, Lieberman, Efron
+1968;Mark Brown;Convergence in Distribution of Stochastic Intervals;Parzen;Parzen, Chernoff, Olshen
+1968;Paul Ira Feder;On the Likelihood Ratio Statistic with Applications to Broken Line Regression;Chernoff;Chernoff, Solomon, Johns
+1968;Martin Alva Hamilton;The Robbins-Monro Stochastic Approximation Approach to a Discrimination Problem;Miller;Miller, Johns, Moses
+1968;Michael David Perlman;One-Sided Problems in Multivariate Analysis;Olkin;Olkin, Stein, Miller
+1968;Sheldon Mark Ross;Denumerable Markovian Decision Models;Lieberman;Lieberman, Woodworth, Veinott
+1967;Norman Edward Breslow;A Class of Sequential Procedures for Medical Trials;Efron;Efron, Miller, Moses
+1967;Jean-Paul Georges Gimon;A Continuous Time Inventory Model;Chernoff;Chernoff, Arrow, Efron
+1967;Carl Neracher Morris;Admissible Bayes Procedures and Classes of Epsilon Bayes Procedures for Testing Hypotheses in a Multinomial Distribution;Stein;Stein, Olkin, Chernoff
+1967;Richard Miles Royall;A Class of Nonparametric Estimates of a Smooth Regression Function;Johns;Johns, Miller, Solomon
+1967;James Vincent Zidek;On the Admissibility of Formal Bayes Estimators;Stein;Stein, Chernoff, Olkin
+1966;Barry Charles Arnold;A Co-Related Urn-Scheme for a Continuum of Responses;Suppes;Suppes, Olkin, Estes
+1966;Gerald Roy Chase;An Empirical Bayes Approach in Routine Bioassay;Johns;Johns, Efron, Moses
+1966;Morris LeRoy Eaton;Some Optimal Properties of Ranking Procedures with Applications in Multivariate Analysis;Olkin;Olkin, Solomon, Miller
+1966;George Ronald Hext;A New Approach to Time Series with Mixed Spectra;Parzen;Parzen, VanNess, Nerlove
+1966;Paul William Holland;A Variation on the Minimum Chi-Square Test;Suppes;Suppes, Miller, Atkinson
+1966;Myles Hollander;Rank Tests for Randomized Blocks when the Alternatives Have an A Priori Ordering;Moses;Moses, Miller, Stein
+1966;Paul Thayer Holmes;Semi-Regular Functions in Markov Chains;Miller;Miller, Parzen, Stein
+1966;Joseph Born Kadane;Comparison of Estimators in Simultaneous Equation Econometric Models when the Residuals are Small;Chernoff;Chernoff, Arrow, Shadale
+1966;Paul Robert Milch;A Multi-Dimensional Linear Growth Birth and Death Process;Karlin;Karlin, Parzen, Miller
+1966;Nigel Felix Nettheim;The Estimation of Coherence;Parzen;Parzen, VanNess, Moses
+1966;Galen Richard Shorack;Nonparametric Tests and Estimation of a Scale in the Two Sample Problem;Moses;Moses, Lieberman, Johns
+1966;Donald Derk Swain;Bounds and Rates of Convergence for the Extended Compound Estimation Problem in the Sequence Case;Johns;Johns, Chernoff, Lieberman
+1966;David Luther Sylwester;On Maximum Likelihood Estimation for Two-Phase Linear Regression;Miller;Miller, Moses, Lieberman
+1966;Grace Goldsmith Wahba;Cross Spectral Distribution Theory for Mixed Spectra and Estimation of Prediction Filter Coefficients;Parzen;Parzen, Olkin, Stein
+1965;Stanley Fromovitz;A Class of Inventory Models;Wagner;Wagner, Lieberman
+1965;Maurice Frank Norman;A Probabilistic Model for Free-Responding;Suppes;Suppes, Karlin, Bowker
+1965;Elias Alphonse Parent, Jr.;Sequential Ranking Procedures;Lieberman;Lieberman, Moses, Stein
+1965;Joseph Julius Schoderbek;Applications of Stochastic Competition Processes to Weapon System Survival;Lieberman;Lieberman, Olkin
+1965;Chaim Sternin;Statistical Sequencing of Archaeological Data;Solomon;Solomon, Moses
+1965;Leland Taylor Stewart;Continuous Sampling by Variables Under Destructive Testing;Lieberman;Lieberman, Johns, Olkin
+1965;Howard Milton Taylor, III;Statistical Control;Lieberman;Lieberman, Johns
+1964;Alvin John Baranchik;Multiple Regression and Estimation of the Mean of a Multivariate Normal Distribution;Stein;Stein, Olkin
+1964;Jean Isaac Donio;Some Stochastic Learning Models with Time as a Continuous Parameter;Suppes;Suppes, Karlin, Moses
+1964;Bradley Efron;Problems in Probability of a Geometric Nature;Miller;Miller, Solomon
+1964;Mary Lena Epling;A Multivariate Stochastic Approximation Procedure;Moses;Moses, Miller
+1964;Leon Jay Gleser;The Comparison of Multivariate Tests of Hypotheses by Means of Bahadur Efficiency;Olkin;Olkin, Solomon
+1964;Melvin Jay Hinich;Large-Sample Estimation of an Unknown Discrete Waveform which is Randomly Repeating in Gaussian Noise;Chernoff;Chernoff
+1964;Melville Robert Klauber;Some Estimates of Location;Moses;Moses, Lieberman
+1964;Sheldon James Press;Some Hypothesis Testing Problems Involving Multivariate Normal Distributions with Unequal and Intraclass Structural Covariance Matrices;Olkin;Olkin, Lieberman, Abramson
+1964;Stephen Mitchell Samuels;On a Chebyshev-Type Inequality for Sums of Independent Random Variables;Karlin;Karlin
+1964;Mirella Casini Schaerf;Estimation of the Covariance and Autoregressive Structure of a Stationary Time Series;Parzen;Parzen, Granger
+1964;Jegadevan Balendran Selliah;Estimation and Testing Problems in a Wishart Distribution;Olkin;Olkin
+1964;Muni Shankar Srivastava;Optimum Procedures for Classification and Related Problems;Stein;Stein, Olkin
+1964;Helen Jean Terzaghi Thiebaux;A Randomness Problems in Macromolecular Sequences;Miller;Miller, Pattee, Moses
+1964;Kenneth Ted Wallenius;Biased Sampling: A Noncentral Hypergeometric Probability Distribution;Lieberman;Lieberman, Johns
+1964;Howard Jacob Weiner;On Age Dependent Branching Processes;Miller;Miller, Johns
+1964;Paul Laszlo Zador;Development and Evaluation of Procedures for Quantizing Multivariate Distributions;Solomon;Solomon, Stein
+1963;Raghunandan Prasad Bhargava;Multivariate Tests of Hypotheses with Incomplete Data;Olkin;Olkin, Solomon
+1963;Helena Antoinette Chmura Kraemer;Point Estimation in Learning Models;Suppes;Suppes, Miller, Atkinson
+1963;Jean Jacques Fortier;Contributions to Item Selection;Solomon;Solomon, Lieberman
+1963;Hans Jacob Zweig;Counter Models and Applications to Detection Problems;Solomon;Solomon, Chernoff
+1962;Donald Lyon Bentley;Contributions to Counter Theory with Applications to Rod Vision;Miller;Miller, Moses
+1962;Murray Aaron Geisler;Some Statistical Properties of Simulation Models Used in Studying Inventory Problems;Scarf;Scarf, Lieberman
+1962;Narayan Chandra Giri;On Tests with Likelihood Ratio Criteria in Some Problems of Multivariate Analysis;Stein;Stein, Solomon
+1962;Arnold Frank Goodman;The Selection of an Optimum Sampling Partition;Chernoff;Chernoff, Parzen
+1962;Donald Lee Iglehart;Dynamic Programming and Stationary Analysis of Inventory Problems;Scarf;Scarf, Karlin
+1962;Charles Joel Stone;Limit Theorems for Birth and Death Processes and Diffusion Processes;Karlin;Karlin, Lamperti
+1962;William John Studden;Asymptotic Laws for Birth and Death Processes;McGregor;McGregor, Karlin
+1961;Richard Eugene Barlow;Applications of Semi-Markov Processes to Counter and Reliability Problems;Karlin;Karlin, Parzen
+1961;Lloyd Franklin Bell;A Mathematical Theory of Guarantee Policies;Lieberman;Lieberman, Johns
+1961;Bruce Marvin Hill;A Test of Linearity Versus Convexity of a Median Regression Curve;Moses;Moses, Miller
+1961;Joseph Henry Kullback;A Quality Control Model for Complex Items;Lieberman;Lieberman, Johns
+1961;Marcel Fernand Neuts;Games on the Unit-Square with Discrete Payoff;Karlin;Karlin, Solomon
+1961;Edward Burton Perrin;Estimation of Parameters in Systems Related to the Observations by an Unknown Monotone Transformation;Moses;Moses, Miller
+1961;Richard Collom Singleton;Steady State Properties of Selected Inventory Models;Karlin;Karlin, Scarf
+1961;Walter Max Woods;Variables Sampling Inspection Procedures which Guarantee Acceptance of Perfectly Screened Lots;Lieberman;Lieberman, Solomon
+1960;Arthur Edward Albert;The Sequential Design of Experiments for Infinitely Many States of Nature;Chernoff;Chernoff, Bowker
+1960;Stuart Alan Bessler;Theory and Applications of the Sequential Design of Experiments, K-Actions and Infinitely Many Experiments;Chernoff;Chernoff, Moses
+1960;William Edwin Pruitt;Bilateral Birth and Death Processes;Karlin;Karlin, Solomon
+1960;Donald Merle Roberts;Approximations to Optimal Policies in a Dynamic Inventory Model;Scarf;Scarf, Karlin
+1960;Nils Donald Ylvisaker;On Time Series Analysis and Reproducing Kernel Spaces;Parzen;Parzen, Johns
+1960;Peter William Zehna;Optimal Inventory Depletion;Lieberman;Lieberman, Johns
+1959;William Dollard Commins, Jr.;Asymptotic Variance as an Approximation to Expected Loss for Maximum Likelihood Estimates;Chernoff;Chernoff, Stein
+1959;Frank Proschan;Polya-Type Distributions in Renewal Theory, with an Application to an Inventory Problem;Scarf;Scarf, Karlin
+1958;Donald Guthrie, Jr.;Bayes Acceptance Sampling Procedures for Large Lots;Johns;Johns, Lieberman
+1958;Bernard Harris;Determining Bounds on Integrals with Applications to Cataloging Problems;Stein;Stein, Chernoff
+1958;Rupert Griel Miller, Jr.;A Contribution to the Theory of Bulk Queues;Karlin;Karlin, Bowker
+1957;Geoffrey Gregory;An Economic Approach to the Choice of Continuous Sampling Plans;Lieberman;Lieberman, Savage
+1956;John Winsor Pratt;Some Results in the Decision Theory of One-Parameter Multivariate Polya-Type Distributions;Karlin;Karlin, Chernoff
+1956;Anadi Ranjan Roy;On Chi-Square Statistics with Variable Intervals;Rubin;Rubin, Chernoff
+1956;Jagdish Sharan Rustagi;On Minimizing and Maximizing a Certain Integral with Statistical Applications;Chernoff;Chernoff, Lieberman
+1956;Donald Robert Truax;Multi-Decision Problems for the Multivariate Exponential Family;Karlin;Karlin, Daly
+1956;Irving Weiss;Limiting Distributions in Some Occupancy Problems;Daly;Daly, Chernoff
+1956;Oscar Wesler;A Modified Minimax Principle;Rubin;Rubin, Chernoff
+1955;Charles Henri Boll;Comparison of Experiments in the Infinite Case and the Use of Invariance in Establishing Sufficiency;Rubin;Rubin, Bowker
+1955;Paul Leopold Meyer;An Application of the Invariance Principle to the Student Hypothesis;Girshick;Girshick, Rubin
+1955;George Joseph Resnikoff;Contributions to Sampling Inspection by Variables;Bowker;Bowker, Lieberman
+1955;Anna Elizabeth Vaughan;Estimation of a Biological Population Which is Subject to a Biased Mortality;Rubin;Rubin, Bowker
+1954;Stephen Gatchell Allen, Jr.;A Class of Minimax Tests for One-Sided Composite Hypotheses;Girshick;Girshick, Rubin
+1954;Russell Newton Bradt;On the Design and Comparison of Certain Dichotomous Experiments;Girshick;Girshick, Chernoff
+1953;Om Prakash Aggarwal;Bayes and Minimax Procedures in Sampling from Finite Populations;Rubin;Rubin, Girshick
+1953;Kenneth David Cann Haley;Estimation of the Dosage Mortality Response Relationship when the Dose is Subject to Error;Bowker;Bowker, Moses
+1953;Gerald J. Lieberman;Contributions to Sampling Inspection;Bowker;Bowker, Girshick
+1951;Lincoln Ellsworth Moses;An Iterative Construction of the Optimum Sequential Decision Procedure when the Cost Function is Linear;Girshick;Girshick, Bowker
+1950;Herbert Solomon;Distribution of the Measure of a Two-Dimensional Random Set;Rubin;Rubin, Bowker
